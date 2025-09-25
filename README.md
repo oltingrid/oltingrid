@@ -6,8 +6,8 @@ My main areas of interest include:
 
 - Image processing and computer vision  
 - 3D computer graphics and rendering techniques
-- Scalable and maintainable software design 
-- Embedded systems and IoT (e.g., ESP32-based smart devices)  
+- Embedded systems and IoT
+- Scalable and maintainable software design
 - Cross-platform desktop application development  
 
 I’m also passionate about languages and communication.  
