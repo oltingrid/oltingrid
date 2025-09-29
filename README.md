@@ -27,8 +27,8 @@ Git, Docker, Visual Studio, IntelliJ, VS Code, Blender, AutoCAD, MySQL, Oracle D
 ## Projects & Interests
 
 - [Cosmetics Website](https://github.com/oltingrid/Cosmetics-Microservices-Project) - SpringBoot, React, MySQL, IntelliJ
-- [Policlinics Management System](https://github.com/oltingrid/Policlinics-Management-System) — Java, MySQL, WindowsBuilder
-- [Fantasy 3D Scene](https://github.com/oltingrid/Fantasy-3D-Scene) — Blender, OpenGL, lighting, animation, and shaders
-- [2D Space Shooter Game](https://github.com/oltingrid/Space_Shooter_Game) — C# WinForms, game loop, real-time logic
-- [Face Recognition System](https://github.com/oltingrid/Face-Recognition-System) — Python, OpenCV, GUI with PySide6
-- [ESP32 Smart Lock](https://github.com/oltingrid/ESP32-Smart-Lock-System) — IoT + embedded systems
+- [Policlinics Management System](https://github.com/oltingrid/Policlinics-Management-System) - Java, MySQL, WindowsBuilder
+- [Fantasy 3D Scene](https://github.com/oltingrid/Fantasy-3D-Scene) - Blender, OpenGL, lighting, animation, and shaders
+- [2D Space Shooter Game](https://github.com/oltingrid/Space_Shooter_Game) - C# WinForms, game loop, real-time logic
+- [Face Recognition System](https://github.com/oltingrid/Face-Recognition-System) - Python, OpenCV, GUI with PySide6
+- [ESP32 Smart Lock](https://github.com/oltingrid/ESP32-Smart-Lock-System) - IoT + embedded systems
