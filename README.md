@@ -26,6 +26,7 @@ Git, Docker, Visual Studio, IntelliJ, VS Code, Blender, AutoCAD, MySQL, Oracle D
 
 ## Projects & Interests
 
+- [Cosmetics Website]() - SpringBoot, React, MySQL, IntelliJ
 - [Policlinics Management System](https://github.com/oltingrid/Policlinics-Management-System) — Java, MySQL, WindowsBuilder
 - [Fantasy 3D Scene](https://github.com/oltingrid/Fantasy-3D-Scene) — Blender, OpenGL, lighting, animation, and shaders
 - [2D Space Shooter Game](https://github.com/oltingrid/Space_Shooter_Game) — C# WinForms, game loop, real-time logic
